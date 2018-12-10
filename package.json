@@ -2,7 +2,7 @@
   "name": "language-doublefuck",
   "main": "./lib/language-doublefuck",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Language support for doublefuck",
   "keywords": [
   ],
   "activationCommands": {
