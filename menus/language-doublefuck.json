@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle language-doublefuck",
+        "command": "language-doublefuck:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "language-doublefuck",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "language-doublefuck:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
