@@ -1,6 +1,9 @@
 # language-doublefuck package
 
 Doublefuck language support for the Atom text editor
+(why would anyone need it?)
+
+Not yet available on atom.io 
 
 Language specifications: https://esolangs.org/wiki/DoubleFuck
 
