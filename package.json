@@ -2,13 +2,13 @@
   "name": "language-doublefuck",
   "main": "./lib/language-doublefuck",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Language support for doublefuck",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "language-doublefuck:toggle"
   },
-  "repository": "https://github.com/atom/language-doublefuck",
+  "repository": "https://github.com/PumaConcolor/atom-language-doublefuck",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

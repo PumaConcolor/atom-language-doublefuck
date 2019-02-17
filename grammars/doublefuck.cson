@@ -1,0 +1,33 @@
+'scopeName': 'source.brainfuck'
+'fileTypes': [
+  'dbf'
+  'doublefuck'
+  'd'
+]
+'name': 'Doublefuck'
+'patterns': [
+  {
+    'match': '\\[ | \\] | \\{ | \\}'
+    'name': 'keyword.doublefuck'
+  }
+  {
+    'match': '< | > | v | ^'
+    'name': 'storage.doublefuck'
+  }
+  {
+    'match': '\\ + | - | \\/ | \\\\'
+    'name': 'keyword.operator.math.doublefuck'
+  }
+  {
+    'match': ', | ;'
+    'name': 'entity.doublefuck'
+  }
+  {
+    'match': '\\. | : '
+    'name': 'string.doublefuck'
+  }
+  {
+    'match': '[^+<>\\-\\[\\]\\{\\}\\/\\^v.:,;\\\\]+'
+    'name': 'comment.doublefuck'
+  }
+]
